@@ -1,3 +1,3 @@
 @echo off
-python "C:\Users\ekfri\OneDrive\Documents\project\URL_LIST\open_urls.py"
+python "C:\open_url.py"
 pause
